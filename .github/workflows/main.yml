@@ -1,12 +1,14 @@
-name: Pages
+name: Pages & PDF
 
 on:
   push:
     branches:
       - master  # default branch
+    tags:
+      - '*'
 
 jobs:
-  pages:
+  build:
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
@@ -39,6 +41,7 @@ jobs:
         id: deployment
         uses: actions/deploy-pages@v1
       - name: Release PDF
+        if: ${{ startsWith(github.ref, 'refs/tags/') }}
         uses: ncipollo/release-action@v1
         with:
           artifacts: "output/*.pdf"
