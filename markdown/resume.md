@@ -34,7 +34,7 @@ Experience
 
 **SOTELS EUDB (EU Data Boundary) Migration**
 
-> Microsoft Suzhou, M365 Big Data Team, SOTELS EUDB Team.
+> Microsoft Suzhou, M365 Big Data Team, SOTELS [EUDB](https://www.microsoft.com/en-us/trust-center/privacy/european-data-boundary-eudb) Team.
 
 - Worked with other teams to drive standardization and enforcement efforts across M365 to meet Europe Compliance & Privacy regulations.
 - Implemented and maintained the data boundary for M365 services.
