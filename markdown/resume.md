@@ -19,7 +19,7 @@ Education
   - COMP9331 Computer Networks and Applications
   - COMP9315 Database Implementation
 
-2007-2010
+2015-2019
 :   **BSc, Software Engineering**; NingboTech University, China
 
 Experience
