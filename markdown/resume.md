@@ -14,7 +14,7 @@ Education
 2019-2021
 :   **Master, Information Technology**; UNSW Sydney, Australia
 
-  - [COMP9319 Web Data Compression and Search](https://github.com/shawnking07/comp9319-code-snippet)
+  - COMP9319 Web Data Compression and Search
   - COMP9417 Machine Learning and Data Mining
   - COMP9331 Computer Networks and Applications
   - COMP9315 Database Implementation
