@@ -1,100 +1,74 @@
-Johnny Coder
+Shawn Jin
 ============
 
 ----
 
->  In this style, the resume starts with a blockquote, where
->  you can briefly list your specialties, or include a salient
->  quote. Ending a line with a backslash forces a line break.
+> Strong in design and integration of problem-solving skills. 
+Hands-on experience in Azure cloud service, Java, Python, JavaScript and SQL in database design.
 
 ----
 
 Education
 ---------
 
-2010-2014 (expected)
-:   **PhD, Computer Science**; Awesome University (MyTown)
+2019-2021
+:   **Master, Information Technology**; UNSW Sydney, Australia
 
-    *Thesis title: Deep Learning Approaches to the Self-Awesomeness
-     Estimation Problem*
+  - [COMP9319 Web Data Compression and Search](https://github.com/shawnking07/comp9319-code-snippet)
+  - COMP9417 Machine Learning and Data Mining
+  - COMP9331 Computer Networks and Applications
+  - COMP9315 Database Implementation
 
 2007-2010
-:   **BSc, Computer Science and Electrical Engineering**; University of
-    HomeTown (HomeTown)
-
-    *Minor: Awesomeology*
+:   **BSc, Software Engineering**; NingboTech University, China
 
 Experience
 ----------
 
-**Your Most Recent Work Experience:**
+**Unified Data Catalog Migration**
 
-Short text containing the type of work done, results obtained,
-lessons learned and other remarks. Can also include lists and
-links:
+> Microsoft Suzhou, M365 Big Data Team, SOTELS Data Insight Team.
 
-* First item
+- Created and analyzed all the potential data sources and provide the data insights for database owner.
+- Designed tools, analyzed and leveraged data mining, generated BI reports to improve and track the migration process.
 
-* Item with [link](http://www.example.com). Links will work both in
-  the html and pdf versions.
+**SOTELS EUDB (EU Data Boundary) Migration**
 
-**That Other Job You Had**
+> Microsoft Suzhou, M365 Big Data Team, SOTELS EUDB Team.
 
-Also with a short description.
+- Worked with other teams to drive standardization and enforcement efforts across M365 to meet Europe Compliance & Privacy regulations.
+- Implemented and maintained the data boundary for M365 services.
+- Migrated 50+ jobs for more than 100 PB+ data from current data lake Gen1 to new data lake Gen2 and also split EU data to EU environment.
+- Implemented a automation tool with *Python* to generate View files for downstream consumers. And saved more than 1 engineering hour per task.
+- Added adhoc one-time copy feature to the EUDB replication service to support one-time data copy between EU environment and rest of world environment request.
 
-Technical Experience
---------------------
+**Azure DevOps Task Reminder Bot**
+> [Microsoft Global Hackathon 2022](https://www.credly.com/badges/0a38f67f-44fb-4788-84ff-878430066bc8/linked_in_profile)
 
-My Cool Side Project
-:   For items which don't have a clear time ordering, a definition
-    list can be used to have named items.
+- Designed and implemented an internal teams bot to remind developers to complete their tasks in Azure DevOps.
+- Used *.NET Core*, *Microsoft Bot Framework*, Microsoft Kusto Storage, etc.
+- Saved more than 1 engineering hour per for sprint master collecting task status. and helped team leader to focus on more important things.
 
-    * These items can also contain lists, but you need to mind the
-      indentation levels in the markdown source.
-    * Second item.
+**HR++ ( Human Resource Management System )**
 
-Open Source
-:   List open source contributions here, perhaps placing emphasis on
-    the project names, for example the **Linux Kernel**, where you
-    implemented multithreading over a long weekend, or **node.js**
-    (with [link](http://nodejs.org)) which was actually totally
-    your idea...
+> Rococo Co., Ltd.   Software Engineer ( Intern )
 
-Programming Languages
-:   **first-lang:** Here, we have an itemization, where we only want
-    to add descriptions to the first few items, but still want to
-    mention some others together at the end. A format that works well
-    here is a description list where the first few items have their
-    first word emphasized, and the last item contains the final few
-    emphasized terms. Notice the reasonably nice page break in the pdf
-    version, which wouldn't happen if we generated the pdf via html.
+- This project is a highly customizable HRMS solution for Rococo Ningbo. Use *Spring framework* to simplify the code. For web front-end uses *Angular* and *React* for PC and mobile adaptations respectively. We use *Docker*, *Jenkins*, etc. for containerized management and continuous integration. There are highly customizable function modules, fuzzy search, hardware integration, approval workflows, and other features.
+- I was responsible for some of the business development of the system, as well as the main design and development of the mobile web side. Also integrated *Flowable* to simplify the development of the approval process features of the system. I independently completed the resume collection system, resume information extraction (emails from platforms like Linkedin and Seek, etc.) and abstracted a unified interface for extension. I implemented the automatic calculation of the leave module, leave duration according to the office hours and holidays.
+- Used *Yeoman* tool to generate simple CRUD template code for the system, avoiding repeated copying and pasting, which greatly simplified the development process.
+- Worked with product managers to translate the English language package of the system.
+- Currently the system has been delivered to more than 10 companies and received a lot of positive feedback, especially the resume analysis module was well received by them.
 
-:   **second-lang:** Description of your experience with second-lang,
-    perhaps again including a [link] [ref], this time placing the url
-    reference elsewhere in the document to reduce clutter (see source
-    file). 
 
-:   **obscure-but-impressive-lang:** We both know this one's pushing
-    it.
-
-:   Basic knowledge of **C**, **x86 assembly**, **forth**, **Common Lisp**
-
-[ref]: https://github.com/githubuser/superlongprojectname
-
-Extra Section, Call it Whatever You Want
+Skills
 ----------------------------------------
 
-* Human Languages:
-
-     * English (native speaker)
-     * ???
-     * This is what a nested list looks like.
-
-* Random tidbit
-
-* Other sort of impressive-sounding thing you did
+- Programming & Scripting Language: Java, Python, C#, Bash, Perl, Typescript, SQL, JavaScript, CSS, HTML, Regular Expression
+- Framework: Spring Framework, .net, Angular, React, Flask, jQuery, RxJs
+- Database: PostgreSQL, MySQL, Redis, Microsoft Kusto
+- Documentation: OpenAPI (swagger)
+- Methodology: Agile, Scrum, Cross-platform Development, Object-Oriented Programming
 
 ----
 
-> <email@example.com> • +00 (0)00 000 0000 • XX years old\
-> address - Mytown, Mycountry
+> <yishun.jin@outlook.com> \
