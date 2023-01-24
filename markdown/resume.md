@@ -1,6 +1,8 @@
 Shawn Jin
 ============
 
+> <yishun.jin@outlook.com> \
+
 ----
 
 > Strong in design and integration of problem-solving skills. 
@@ -60,9 +62,8 @@ Experience
 - Worked with product managers to translate the English language package of the system.
 - Currently the system has been delivered to more than 10 companies and received a lot of positive feedback, especially the resume analysis module was well received by them.
 
-
 Skills
-----------------------------------------
+---------
 
 - Programming & Scripting Language: Java, Python, C#, Bash, Perl, Typescript, SQL, JavaScript, CSS, HTML, Regular Expression
 - Framework: Spring Framework, .net, Angular, React, Flask, jQuery, RxJs
@@ -70,6 +71,3 @@ Skills
 - Documentation: OpenAPI (swagger)
 - Methodology: Agile, Scrum, Cross-platform Development, Object-Oriented Programming
 
-----
-
-> <yishun.jin@outlook.com> \
