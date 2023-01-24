@@ -12,7 +12,7 @@ Education
 ---------
 
 2019-2021
-:   **Master, Information Technology**; UNSW Sydney, Australia
+:   **MEng, Information Technology**; UNSW Sydney, Australia
 
   - COMP9319 Web Data Compression and Search
   - COMP9417 Machine Learning and Data Mining
@@ -20,7 +20,7 @@ Education
   - COMP9315 Database Implementation
 
 2015-2019
-:   **BSc, Software Engineering**; NingboTech University, China
+:   **BEng, Software Engineering**; NingboTech University, China
 
 Experience
 ----------
