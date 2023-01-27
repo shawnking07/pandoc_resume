@@ -34,9 +34,9 @@ Experience
 - Created and analyzed all the potential data sources and provide the data insights for database owner.
 - Designed tools, analyzed and leveraged data mining, generated BI reports to improve and track the migration process.
 
-**SOTELS EUDB (EU Data Boundary) Migration**
+**SOTELS [EUDB (EU Data Boundary)](https://www.microsoft.com/en-us/trust-center/privacy/european-data-boundary-eudb) Migration**
 
-> Microsoft Suzhou, M365 Big Data Team, SOTELS [EUDB](https://www.microsoft.com/en-us/trust-center/privacy/european-data-boundary-eudb) Team.
+> Microsoft Suzhou, M365 Big Data Team, SOTELS EUDB Team.
 
 - Collaborated with other teams to drive standardization and enforcement efforts across M365 to meet European Compliance & Privacy regulations. Implemented and maintained data boundary for M365 services.
 - Migrated 50+ jobs and over 100 PB+ of data from the current data lake Gen1 to the new data lake Gen2 and also separated EU data to EU environment.
