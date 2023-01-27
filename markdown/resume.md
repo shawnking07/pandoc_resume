@@ -14,10 +14,7 @@
 2019-2021
 :   **MEng, Information Technology**; UNSW Sydney, Australia
 
-  - COMP9319 Web Data Compression and Search
-  - COMP9417 Machine Learning and Data Mining
-  - COMP9331 Computer Networks and Applications
-  - COMP9315 Database Implementation
+- *UNSW International Academic Excellence Award*
 
 2015-2019
 :   **BEng, Software Engineering**; NingboTech University, China
