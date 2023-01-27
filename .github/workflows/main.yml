@@ -57,6 +57,11 @@ jobs:
         run: sudo apt install -y pandoc context
       - name: Build
         run: make pdf
+      - name: Upload artifact
+        uses: actions/upload-artifact@v3
+        with:
+          name: resume
+          path: output/*.pdf
       - name: Release PDF
         uses: ncipollo/release-action@v1
         with:
