@@ -1,17 +1,15 @@
-Shawn Jin
-============
+# Shawn Jin
 
-> <yishun.jin@outlook.com> \
+> <yishun.jin@outlook.com>
 
-----
+---
 
 > Strong in design and integration of problem-solving skills. 
 > Hands-on experience in Azure cloud service, Java, Python, JavaScript and SQL in database design.
 
-----
+---
 
-Education
----------
+## Education
 
 2019-2021
 :   **MEng, Information Technology**; UNSW Sydney, Australia
@@ -24,8 +22,7 @@ Education
 2015-2019
 :   **BEng, Software Engineering**; NingboTech University, China
 
-Experience
-----------
+## Experience
 
 **Unified Data Catalog Migration**
 
@@ -59,8 +56,7 @@ Experience
 - Utilized *Yeoman* tool to generate simple CRUD template code for the system, streamlining the development process by eliminating the need for repeated copying and pasting.
 - The HRMS solution was delivered to over 10 companies and received positive feedback, with the resume analysis module receiving particularly high praise.
 
-Skills
----------
+## Skills
 
 - Programming & Scripting Language: Java, Python, C#, Bash, Perl, Typescript, SQL, JavaScript, CSS, HTML, Regular Expression
 - Framework: Spring Framework, .net, Angular, Flask, jQuery, RxJs

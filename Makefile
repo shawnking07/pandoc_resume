@@ -19,12 +19,13 @@ pdf: init
 html: init
 	for f in $(IN_DIR)/*.md; do \
 		FILE_NAME=`basename $$f | sed 's/.md//g'`; \
+		RESUME_NAME=`python md-title.py $$f`; \
 		echo $$FILE_NAME.html; \
 		pandoc --standalone --include-in-header $(STYLES_DIR)/$(STYLE).css \
 			--lua-filter=pdc-links-target-blank.lua \
 			--from markdown --to html \
-			--output $(OUT_DIR)/$$FILE_NAME.html $$f \
-			--metadata pagetitle=$$FILE_NAME;\
+			--output "$(OUT_DIR)/$$FILE_NAME.html" $$f \
+			--metadata pagetitle="$$RESUME_NAME";\
 	done
 
 docx: init
