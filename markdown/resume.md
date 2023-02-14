@@ -14,10 +14,15 @@
 2019-2021
 :   **MEng, Information Technology**; UNSW Sydney, Australia
 
-- *UNSW International Academic Excellence Award*
+- Honors: *UNSW International Academic Excellence Award*
+- Main courses: COMP9319 Web Data Compression and Search, COMP9417 Machine Learning and Data Mining, COMP9331 Computer Networks and Applications, COMP9517 Computer Vision
+  
 
 2015-2019
 :   **BEng, Software Engineering**; NingboTech University, China
+
+- Honors: *Dean's List*, *Merit Student*, *Outstanding Student*
+- GPA 3.34/4 (Top 10% of the graduating classes)
 
 ## Experience
 
