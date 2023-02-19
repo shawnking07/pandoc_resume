@@ -31,7 +31,7 @@
 > Microsoft Suzhou, M365 Big Data Team, SOTELS Data Insight Team.
 
 - Created and analyzed all the potential data sources and provide the data insights for database owner.
-- Designed tools, analyzed and leveraged data mining, generated BI reports to improve and track the migration process.
+- Designed tools, analyzed and leveraged data mining, generated BI reports to improve and track the migration process. Saved 1 hour per day for the migration analysis process.
 
 **SOTELS [EUDB (EU Data Boundary)](https://www.microsoft.com/en-us/trust-center/privacy/european-data-boundary-eudb) Migration**
 
