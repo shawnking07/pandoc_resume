@@ -30,8 +30,9 @@
 
 > Microsoft Suzhou, M365 Big Data Team, SOTELS Data Insight Team.
 
-- Created and analyzed all the potential data sources and provide the data insights for database owner.
-- Designed tools, analyzed and leveraged data mining, generated BI reports to improve and track the migration process. Saved 1 hour per day for the migration analysis process.
+- Conducted in-depth investigations into Kusto table usage and analyzed data to identify trends and patterns. Collaborated with cross-fabric teams to develop and implement solutions for Unified Data Catalog Migration.
+- Designed and developed a comprehensive dashboard for tracking the migration process with Microsoft PowerBI, enabling the team to monitor progress and identify potential issues in real-time. Ensured the dashboard was user friendly and accessible to all team members, enhancing transparency and collaboration.
+- Created tools to automate the ingestion of sharepoint online excel data sources with Python, improving efficiency and accuracy while updating Dashboard.
 
 **SOTELS [EUDB (EU Data Boundary)](https://www.microsoft.com/en-us/trust-center/privacy/european-data-boundary-eudb) Migration**
 

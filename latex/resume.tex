@@ -1,0 +1,122 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% One Page Basic Software Developing Engineer Professional CV （North America）
+% LaTeX Template
+%
+% Version 1.0 (10/30/2021)
+%
+% This template has been downloaded from:
+% http://www.LaTeXTemplates.com
+%
+% Author:
+% NíCǎi
+%
+% Compile note:
+% This template requires the resume.cls file to be in the same directory as the
+% .tex file. The resume.cls file provides the resume style used for structuring the
+% document.
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%----------------------------------------------------------------------------------------
+% PACKAGES，DEPENDENCY AND OTHER DOCUMENT CONFIGURATIONS
+%----------------------------------------------------------------------------------------
+
+\documentclass[a4paper]{resume} % Use the custom resume.cls style
+\usepackage[left=0.5in,top=0.5in,right=0.5in,bottom=0.5in]{geometry} % Document margins
+\usepackage{hyperref}
+
+
+%----------------------------------------------------------------------------------------
+% 0. NAME SECTION
+%----------------------------------------------------------------------------------------
+
+\newcommand{\tab}[1]{\hspace{.006\textwidth}\rlap{#1}}
+\name{Shawn (Yishun) Jin} % Your name
+
+\address{\small (+1)909-667-1372  ||  yishun.jin@outlook.com || https://www.linkedin.com/in/shawn-jin-80071b165/} 
+
+\begin{document}
+
+%----------------------------------------------------------------------------------------
+% 1. EDUCATION SECTION
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{\large Education}
+
+% \small
+{\bf University of New South Wales} \hfill { Sep. 2019 - Dec. 2021}
+\\Master of Engineering in Information Technology \hfill {\textbf{\underline{Sydney, Australia}}}
+
+
+
+{\bf Zhejiang University, Ningbo Institution of Technology} \hfill { Sep. 2015 - Jun. 2019}
+\\Bachelor of Engineering in Software Engineering \hfill {\textbf{\underline{(\texttt{GPA:3.8+ Top 5\%}) Zhejiang, China}}}
+
+\end{rSection}
+
+
+%----------------------------------------------------------------------------------------
+% 2. SKILLS SECTION
+%----------------------------------------------------------------------------------------
+
+
+\begin{rSection}{\large Skills}
+
+% \small
+\textbf{Programming Languages:}             \hfill  \textbf{Java, Python, C\texttt{\#}, Bash, Perl, Typescript, SQL, HTML, Regex} \\
+\textbf{Development \& Tools:}   \hfill  \textbf{Azure, Spring Boot, .NET, Angular, React, Redis, PostgreSQL, MySQL, PowerBI, Microsoft Kusto, Docker, Git, OpenAPI (Swagger), Agile Development (Scrum) }\\
+
+\end{rSection}
+
+
+%----------------------------------------------------------------------------------------
+% 3. EXPERIENCE SECTION
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{\large Experience}
+% \small
+
+%job 1 
+\begin{rSubsection}{\textbf{\large{Unified Data Catalog Migration}}}{Jan. 2023 - Now}{Microsoft || SOTELS Data Insight Team}{Suzhou. China}
+
+\item Conducted in-depth investigations into \textbf{Kusto} table usage and analyzed data to identify trends and patterns. Collaborated with cross-fabric teams to develop and implement solutions for Unified Data Catalog Migration.
+\item Designed and developed a comprehensive dashboard for tracking the migration process with \textbf{Microsoft PowerBI}, enabling the team to monitor progress and identify potential issues in real-time. Ensured the dashboard was user-friendly and accessible to all team members, enhancing transparency and collaboration.
+\item Created tools to automate the ingestion of sharepoint online excel data sources with \textbf{Python}, improving efficiency and accuracy while updating Dashboard.
+
+\end{rSubsection}
+
+%Job 2 
+\begin{rSubsection}{\textbf{\large{SOTELS {\href{https://www.microsoft.com/en-us/trust-center/privacy/european-data-boundary-eudb}{EUDB (EU Data Boundary)}} Migration}}}{Jan. 2022 - Jan. 2023}{Microsoft || SOTELS EUDB Team}{Suzhou. China}
+
+\item Collaborated with other teams to drive standardization and enforcement efforts across M365 to meet European Compliance \& Privacy regulations. Implemented and maintained data boundary for M365 services.
+\item Migrated 20+ \textbf{SCOPE} jobs and over \textbf{1PB} daily data from the current data lake Gen1 to the new data lake Gen2 and also separated EU data to EU environment.
+\item Implemented an automation tool using \textbf{Python} to generate View files for downstream consumers, resulting in reducing task workload by over 1 hour per task.
+\item Designed and implemented an ad-hoc one-time data copying feature for the EUDB migration portal using \textbf{React} and the \textbf{.NET framework}, enabling seamless data transfer between EU and non-EU environments.
+
+\end{rSubsection}
+
+\begin{rSubsection}{\textbf{\large{Azure DevOps Task Reminder Bot}}}{Aug. 2022}{\href{https://www.credly.com/badges/0a38f67f-44fb-4788-84ff-878430066bc8/linked_in_profile}{Microsoft Global Hackathon 2022}}
+
+\item Designed and implemented an internal \textbf{Teams bot} to remind developers to complete their tasks in Azure DevOps, using technologies such as \textbf{.NET Core}, \textbf{Microsoft Bot Framework}, and \textbf{Microsoft Kusto Storage}.
+\item Reduced sprint master workload by over 1 hour per sprint through task status collection automation, allowing team leader to focus on more critical tasks.
+\item This Bot has also been introduced to our team weekly sync-up channel.
+
+\end{rSubsection}
+
+%Job 3
+\begin{rSubsection}{\textbf{\large{HR++ ( Human Resource Management System )}}}{Oct. 2018 - May. 2019}{Microsoft || SOTELS EUDB Team}{Suzhou. China}
+
+\item Developed a highly customizable HRMS solution for Rococo Ningbo utilizing \textbf{Spring framework} for streamlined code, \textbf{Angular} and \textbf{React} for PC and mobile web front-end, \textbf{Docker} and \textbf{Jenkins} for containerized management and continuous integration. 
+\item The solution includes various customizable functional modules, such as fuzzy search, hardware integration, and approval workflows. This resulted in a 50\% faster approval process and a 25\% improvement in search accuracy.
+\item Independently developed the resume collection system, resume information extraction, and abstracted a unified interface for extension. This resulted in a 90\% increase in accuracy and a 50\% reduction in processing times.
+\item Utilized Yeoman tool to generate simple CRUD template code for the system. This streamlined the development process by eliminating the need for repeated copying and pasting, resulting in a 30\% increase in productivity and a 20\% reduction in development time.
+
+\end{rSubsection}
+
+\end{rSection}
+
+\end{document}
+
+%----------------------------------------------------------------------------------------
+% 5. END
+%----------------------------------------------------------------------------------------
